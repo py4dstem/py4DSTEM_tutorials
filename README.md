@@ -1,7 +1,9 @@
-[![4DSTEM movie](images/STEM4D_movie04b_export.gif)](https://www.youtube.com/watch?v=2QUFgO5x1OY)  |  ![py4DSTEM logo](/images/py4DSTEM_logo.png)
-:-------------------------:|:-------------------------:
-4D-STEM Experiment  |  Data Analysis
 
+4D-STEM Experiment  |  4D-STEM Analysis
+:-------------------------:|:-------------------------:
+[![4D-STEM schematic](images/schematic4DSTEM)]  |  ![py4DSTEM logo](/images/py4DSTEM_logo.png)
+:-------------------------:|:-------------------------:
+[4D-STEM review paper](https://doi.org/10.1017/S1431927619000497) | [py4DSTEM analysis paper](https://doi.org/10.1017/S1431927621000477)
 
 **py4DSTEM** is an open source set of python tools for processing and analysis of four-dimensional scanning transmission electron microscopy (4D-STEM) data.
 
