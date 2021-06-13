@@ -1,7 +1,7 @@
 # files for DPC_nanotube.ipynb
 
 #wget "https://docs.google.com/uc?export=download&id=1bHv3u61Cr-y_GkdWHrJGh1lw2VKmt3UM/" -O data/carbon_nanotube_data.h5
-wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1bHv3u61Cr-y_GkdWHrJGh1lw2VKmt3UM' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1bHv3u61Cr-y_GkdWHrJGh1lw2VKmt3UM" -O data/carbon_nanotube_data.h5 && rm -rf /tmp/cookies.txt
+# wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1bHv3u61Cr-y_GkdWHrJGh1lw2VKmt3UM' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1bHv3u61Cr-y_GkdWHrJGh1lw2VKmt3UM" -O data/carbon_nanotube_data.h5 && rm -rf /tmp/cookies.txt
 
 # files for  make_probe_templates.ipynb
 
@@ -12,10 +12,10 @@ wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download
  
 
 # allows downloading larger files 
-wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1sUrPEgM1wWyTh-LJ30lGUhcXklHj6ajC' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1sUrPEgM1wWyTh-LJ30lGUhcXklHj6ajC" -O data/twinBoundary_ShitengZhao20190115MEA.h5 && rm -rf /tmp/cookies.txt
+# wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1sUrPEgM1wWyTh-LJ30lGUhcXklHj6ajC' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1sUrPEgM1wWyTh-LJ30lGUhcXklHj6ajC" -O data/twinBoundary_ShitengZhao20190115MEA.h5 && rm -rf /tmp/cookies.txt
 
-wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1QTcSKzZjHZd1fDimSI_q9_WsAU25NIXe' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1QTcSKzZjHZd1fDimSI_q9_WsAU25NIXe" -O data/vacuum_probe_20x20.dm4 && rm -rf /tmp/cookies.txt
+# wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1QTcSKzZjHZd1fDimSI_q9_WsAU25NIXe' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1QTcSKzZjHZd1fDimSI_q9_WsAU25NIXe" -O data/vacuum_probe_20x20.dm4 && rm -rf /tmp/cookies.txt
 
-wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1iBSANFQT9eacpn7aAE6PmFdIRYQxenGg' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1iBSANFQT9eacpn7aAE6PmFdIRYQxenGg" -O data/bullseye_probe_scan_edge.dm4 && rm -rf /tmp/cookies.txt
+# wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1iBSANFQT9eacpn7aAE6PmFdIRYQxenGg' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1iBSANFQT9eacpn7aAE6PmFdIRYQxenGg" -O data/bullseye_probe_scan_edge.dm4 && rm -rf /tmp/cookies.txt
 
-wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1p9GaV0k628_afbdqFW62rHObcjQ09qy' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1p9GaV0k628_afbdqFW62rHObcjQ09qy" -O data/NiPt_nanoparticle_20x20.dm3 && rm -rf /tmp/cookies.txt
+# wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1p9GaV0k628_afbdqFW62rHObcjQ09qy' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1p9GaV0k628_afbdqFW62rHObcjQ09qy" -O data/NiPt_nanoparticle_20x20.dm3 && rm -rf /tmp/cookies.txt
