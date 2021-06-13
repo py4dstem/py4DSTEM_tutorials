@@ -1,4 +1,3 @@
-from typing_extensions import ParamSpecArgs
 import requests 
 from typing import Union
 import pathlib
@@ -77,3 +76,6 @@ def __main__():
         pass
     
     return None
+
+if __name__ == "__main__":
+    __main__()
