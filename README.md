@@ -8,3 +8,6 @@
 
 This repository contains tutorials for the py4DSTEM Python package.  For more information about py4DSTEM, including installation instructions, see https://github.com/py4dstem/py4DSTEM.
 
+
+# Try it yourself 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4dstem/py4DSTEM_tutorials/binder_dev?filepath=Index.ipynb)
