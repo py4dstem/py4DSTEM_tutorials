@@ -4,7 +4,7 @@ This repository contains tutorials for the py4DSTEM Python package.  For more in
 
 
 # Run these tutorials in binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4dstem/py4DSTEM_tutorials/binder_dev?filepath=Index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4dstem/py4DSTEM_tutorials/binder_dev?urlpath=lab/tree/Index.ipynb)
 
 
 # Further information on 4D-STEM and py4DSTEM
