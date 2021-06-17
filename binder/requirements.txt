@@ -1,2 +1,3 @@
 git+git://github.com/py4dstem/py4DSTEM@dev#egg=py4DSTEM
 jedi==0.17.2
+tables
