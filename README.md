@@ -10,4 +10,4 @@ This repository contains tutorials for the py4DSTEM Python package.  For more in
 
 
 # Try it yourself 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4dstem/py4DSTEM_tutorials/binder_dev?filepath=notebooks/Index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4dstem/py4DSTEM_tutorials/dev?filepath=notebooks/Index.ipynb)
