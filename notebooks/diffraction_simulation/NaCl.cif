@@ -1,0 +1,428 @@
+ 
+data_sp1_225
+ 
+_audit_creation_method            'SHELXL-2018/3'
+_shelx_SHELXL_version_number      '2018/3'
+_chemical_name_systematic         ?
+_chemical_name_common             ?
+_chemical_melting_point           ?
+_chemical_formula_moiety          ?
+_chemical_formula_sum
+ 'Cl Na' 
+_chemical_formula_weight          58.44
+
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+ 'Na'  'Na'   0.0000   0.0000
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+ 'Cl'  'Cl'   0.0000   0.0000
+ 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+ 
+_space_group_crystal_system       cubic
+_space_group_IT_number            225
+_space_group_name_H-M_alt         'F m -3 m'
+_space_group_name_Hall            '-F 4 2 3'
+ 
+_shelx_space_group_comment
+;
+The symmetry employed for this shelxl refinement is uniquely defined
+by the following loop, which should always be used as a source of
+symmetry information in preference to the above space-group names.
+They are only intended as comments.
+;
+ 
+loop_
+ _space_group_symop_operation_xyz
+ 'x, y, z'
+ '-x, -y, z'
+ '-x, y, -z'
+ 'x, -y, -z'
+ 'z, x, y'
+ 'z, -x, -y'
+ '-z, -x, y'
+ '-z, x, -y'
+ 'y, z, x'
+ '-y, z, -x'
+ 'y, -z, -x'
+ '-y, -z, x'
+ 'y, x, -z'
+ '-y, -x, -z'
+ 'y, -x, z'
+ '-y, x, z'
+ 'x, z, -y'
+ '-x, z, y'
+ '-x, -z, -y'
+ 'x, -z, y'
+ 'z, y, -x'
+ 'z, -y, x'
+ '-z, y, x'
+ '-z, -y, -x'
+ 'x, y+1/2, z+1/2'
+ '-x, -y+1/2, z+1/2'
+ '-x, y+1/2, -z+1/2'
+ 'x, -y+1/2, -z+1/2'
+ 'z, x+1/2, y+1/2'
+ 'z, -x+1/2, -y+1/2'
+ '-z, -x+1/2, y+1/2'
+ '-z, x+1/2, -y+1/2'
+ 'y, z+1/2, x+1/2'
+ '-y, z+1/2, -x+1/2'
+ 'y, -z+1/2, -x+1/2'
+ '-y, -z+1/2, x+1/2'
+ 'y, x+1/2, -z+1/2'
+ '-y, -x+1/2, -z+1/2'
+ 'y, -x+1/2, z+1/2'
+ '-y, x+1/2, z+1/2'
+ 'x, z+1/2, -y+1/2'
+ '-x, z+1/2, y+1/2'
+ '-x, -z+1/2, -y+1/2'
+ 'x, -z+1/2, y+1/2'
+ 'z, y+1/2, -x+1/2'
+ 'z, -y+1/2, x+1/2'
+ '-z, y+1/2, x+1/2'
+ '-z, -y+1/2, -x+1/2'
+ 'x+1/2, y, z+1/2'
+ '-x+1/2, -y, z+1/2'
+ '-x+1/2, y, -z+1/2'
+ 'x+1/2, -y, -z+1/2'
+ 'z+1/2, x, y+1/2'
+ 'z+1/2, -x, -y+1/2'
+ '-z+1/2, -x, y+1/2'
+ '-z+1/2, x, -y+1/2'
+ 'y+1/2, z, x+1/2'
+ '-y+1/2, z, -x+1/2'
+ 'y+1/2, -z, -x+1/2'
+ '-y+1/2, -z, x+1/2'
+ 'y+1/2, x, -z+1/2'
+ '-y+1/2, -x, -z+1/2'
+ 'y+1/2, -x, z+1/2'
+ '-y+1/2, x, z+1/2'
+ 'x+1/2, z, -y+1/2'
+ '-x+1/2, z, y+1/2'
+ '-x+1/2, -z, -y+1/2'
+ 'x+1/2, -z, y+1/2'
+ 'z+1/2, y, -x+1/2'
+ 'z+1/2, -y, x+1/2'
+ '-z+1/2, y, x+1/2'
+ '-z+1/2, -y, -x+1/2'
+ 'x+1/2, y+1/2, z'
+ '-x+1/2, -y+1/2, z'
+ '-x+1/2, y+1/2, -z'
+ 'x+1/2, -y+1/2, -z'
+ 'z+1/2, x+1/2, y'
+ 'z+1/2, -x+1/2, -y'
+ '-z+1/2, -x+1/2, y'
+ '-z+1/2, x+1/2, -y'
+ 'y+1/2, z+1/2, x'
+ '-y+1/2, z+1/2, -x'
+ 'y+1/2, -z+1/2, -x'
+ '-y+1/2, -z+1/2, x'
+ 'y+1/2, x+1/2, -z'
+ '-y+1/2, -x+1/2, -z'
+ 'y+1/2, -x+1/2, z'
+ '-y+1/2, x+1/2, z'
+ 'x+1/2, z+1/2, -y'
+ '-x+1/2, z+1/2, y'
+ '-x+1/2, -z+1/2, -y'
+ 'x+1/2, -z+1/2, y'
+ 'z+1/2, y+1/2, -x'
+ 'z+1/2, -y+1/2, x'
+ '-z+1/2, y+1/2, x'
+ '-z+1/2, -y+1/2, -x'
+ '-x, -y, -z'
+ 'x, y, -z'
+ 'x, -y, z'
+ '-x, y, z'
+ '-z, -x, -y'
+ '-z, x, y'
+ 'z, x, -y'
+ 'z, -x, y'
+ '-y, -z, -x'
+ 'y, -z, x'
+ '-y, z, x'
+ 'y, z, -x'
+ '-y, -x, z'
+ 'y, x, z'
+ '-y, x, -z'
+ 'y, -x, -z'
+ '-x, -z, y'
+ 'x, -z, -y'
+ 'x, z, y'
+ '-x, z, -y'
+ '-z, -y, x'
+ '-z, y, -x'
+ 'z, -y, -x'
+ 'z, y, x'
+ '-x, -y+1/2, -z+1/2'
+ 'x, y+1/2, -z+1/2'
+ 'x, -y+1/2, z+1/2'
+ '-x, y+1/2, z+1/2'
+ '-z, -x+1/2, -y+1/2'
+ '-z, x+1/2, y+1/2'
+ 'z, x+1/2, -y+1/2'
+ 'z, -x+1/2, y+1/2'
+ '-y, -z+1/2, -x+1/2'
+ 'y, -z+1/2, x+1/2'
+ '-y, z+1/2, x+1/2'
+ 'y, z+1/2, -x+1/2'
+ '-y, -x+1/2, z+1/2'
+ 'y, x+1/2, z+1/2'
+ '-y, x+1/2, -z+1/2'
+ 'y, -x+1/2, -z+1/2'
+ '-x, -z+1/2, y+1/2'
+ 'x, -z+1/2, -y+1/2'
+ 'x, z+1/2, y+1/2'
+ '-x, z+1/2, -y+1/2'
+ '-z, -y+1/2, x+1/2'
+ '-z, y+1/2, -x+1/2'
+ 'z, -y+1/2, -x+1/2'
+ 'z, y+1/2, x+1/2'
+ '-x+1/2, -y, -z+1/2'
+ 'x+1/2, y, -z+1/2'
+ 'x+1/2, -y, z+1/2'
+ '-x+1/2, y, z+1/2'
+ '-z+1/2, -x, -y+1/2'
+ '-z+1/2, x, y+1/2'
+ 'z+1/2, x, -y+1/2'
+ 'z+1/2, -x, y+1/2'
+ '-y+1/2, -z, -x+1/2'
+ 'y+1/2, -z, x+1/2'
+ '-y+1/2, z, x+1/2'
+ 'y+1/2, z, -x+1/2'
+ '-y+1/2, -x, z+1/2'
+ 'y+1/2, x, z+1/2'
+ '-y+1/2, x, -z+1/2'
+ 'y+1/2, -x, -z+1/2'
+ '-x+1/2, -z, y+1/2'
+ 'x+1/2, -z, -y+1/2'
+ 'x+1/2, z, y+1/2'
+ '-x+1/2, z, -y+1/2'
+ '-z+1/2, -y, x+1/2'
+ '-z+1/2, y, -x+1/2'
+ 'z+1/2, -y, -x+1/2'
+ 'z+1/2, y, x+1/2'
+ '-x+1/2, -y+1/2, -z'
+ 'x+1/2, y+1/2, -z'
+ 'x+1/2, -y+1/2, z'
+ '-x+1/2, y+1/2, z'
+ '-z+1/2, -x+1/2, -y'
+ '-z+1/2, x+1/2, y'
+ 'z+1/2, x+1/2, -y'
+ 'z+1/2, -x+1/2, y'
+ '-y+1/2, -z+1/2, -x'
+ 'y+1/2, -z+1/2, x'
+ '-y+1/2, z+1/2, x'
+ 'y+1/2, z+1/2, -x'
+ '-y+1/2, -x+1/2, z'
+ 'y+1/2, x+1/2, z'
+ '-y+1/2, x+1/2, -z'
+ 'y+1/2, -x+1/2, -z'
+ '-x+1/2, -z+1/2, y'
+ 'x+1/2, -z+1/2, -y'
+ 'x+1/2, z+1/2, y'
+ '-x+1/2, z+1/2, -y'
+ '-z+1/2, -y+1/2, x'
+ '-z+1/2, y+1/2, -x'
+ 'z+1/2, -y+1/2, -x'
+ 'z+1/2, y+1/2, x'
+ 
+_cell_length_a                    5.6400(7)
+_cell_length_b                    5.6400(7)
+_cell_length_c                    5.6400(7)
+_cell_angle_alpha                 90
+_cell_angle_beta                  90
+_cell_angle_gamma                 90
+_cell_volume                      179.41(7)
+_cell_formula_units_Z             4
+_cell_measurement_temperature     293(2)
+_cell_measurement_reflns_used     ?
+_cell_measurement_theta_min       ?
+_cell_measurement_theta_max       ?
+ 
+_exptl_crystal_description        ?
+_exptl_crystal_colour             ?
+_exptl_crystal_density_meas       ?
+_exptl_crystal_density_method     ?
+_exptl_crystal_density_diffrn     2.164          
+_exptl_crystal_F_000              38
+_exptl_transmission_factor_min    ?
+_exptl_transmission_factor_max    ?
+_exptl_crystal_size_max           ?
+_exptl_crystal_size_mid           ?
+_exptl_crystal_size_min           ?
+_exptl_absorpt_coefficient_mu     0.000
+_shelx_estimated_absorpt_T_min    ?
+_shelx_estimated_absorpt_T_max    ?
+_exptl_absorpt_correction_type    ?
+_exptl_absorpt_correction_T_min   ?
+_exptl_absorpt_correction_T_max   ?
+_exptl_absorpt_process_details    ?
+_exptl_absorpt_special_details    ?
+_diffrn_ambient_temperature       293(2)
+_diffrn_radiation_wavelength      0.71073
+_diffrn_radiation_type            MoK\a
+_diffrn_source                    ?
+_diffrn_measurement_device_type   ?
+_diffrn_measurement_method        ?
+_diffrn_detector_area_resol_mean  ?
+_diffrn_reflns_number             229
+_diffrn_reflns_av_unetI/netI      0.0735
+_diffrn_reflns_av_R_equivalents   0.1938
+_diffrn_reflns_limit_h_min        -7
+_diffrn_reflns_limit_h_max        7
+_diffrn_reflns_limit_k_min        -7
+_diffrn_reflns_limit_k_max        7
+_diffrn_reflns_limit_l_min        -7
+_diffrn_reflns_limit_l_max        7
+_diffrn_reflns_theta_min          6.265
+_diffrn_reflns_theta_max          28.945
+_diffrn_reflns_theta_full         25.242
+_diffrn_measured_fraction_theta_max   1.000
+_diffrn_measured_fraction_theta_full  1.000
+_diffrn_reflns_Laue_measured_fraction_max    1.000
+_diffrn_reflns_Laue_measured_fraction_full   1.000
+_diffrn_reflns_point_group_measured_fraction_max   1.000
+_diffrn_reflns_point_group_measured_fraction_full  1.000
+_reflns_number_total              25
+_reflns_number_gt                 24
+_reflns_threshold_expression      'I > 2\s(I)'
+_reflns_Friedel_coverage          0.000
+_reflns_Friedel_fraction_max      .
+_reflns_Friedel_fraction_full     .
+ 
+_reflns_special_details
+;
+ Reflections were merged by SHELXL according to the crystal
+ class for the calculation of statistics and refinement.
+ 
+ _reflns_Friedel_fraction is defined as the number of unique
+ Friedel pairs measured divided by the number that would be
+ possible theoretically, ignoring centric projections and
+ systematic absences.
+;
+ 
+_computing_data_collection        ?
+_computing_cell_refinement        ?
+_computing_data_reduction         ?
+_computing_structure_solution     ?
+_computing_structure_refinement 'SHELXL-2018/3 (Sheldrick, 2018)'
+_computing_molecular_graphics     ?
+_computing_publication_material   ?
+_refine_special_details           ?
+_refine_ls_structure_factor_coef  Fsqd
+_refine_ls_matrix_type            full
+_refine_ls_weighting_scheme       calc
+_refine_ls_weighting_details
+'w=1/[\s^2^(Fo^2^)+(0.2000P)^2^] where P=(Fo^2^+2Fc^2^)/3'
+_atom_sites_solution_primary      ?
+_atom_sites_solution_secondary    ?
+_atom_sites_solution_hydrogens    .
+_refine_ls_hydrogen_treatment     undef
+_refine_ls_extinction_method      'SHELXL-2018/3 (Sheldrick 2018)'
+_refine_ls_extinction_coef        109(113)
+_refine_ls_extinction_expression
+ 'Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^'
+_refine_ls_number_reflns          25
+_refine_ls_number_parameters      4
+_refine_ls_number_restraints      0
+_refine_ls_R_factor_all           0.1336
+_refine_ls_R_factor_gt            0.1328
+_refine_ls_wR_factor_ref          0.3412
+_refine_ls_wR_factor_gt           0.3402
+_refine_ls_goodness_of_fit_ref    1.704
+_refine_ls_restrained_S_all       1.704
+_refine_ls_shift/su_max           0.000
+_refine_ls_shift/su_mean          0.000
+ 
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_site_symmetry_order  
+ _atom_site_calc_flag
+ _atom_site_refinement_flags_posn
+ _atom_site_refinement_flags_adp
+ _atom_site_refinement_flags_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+Cl01 Cl 1.000000 0.500000 0.500000 0.021(7) Uiso 1 48 d S . P . .
+Na02 Na 0.500000 0.500000 0.500000 0.027(7) Uiso 1 48 d S . P . .
+ 
+_geom_special_details
+;
+ All esds (except the esd in the dihedral angle between two l.s. planes)
+ are estimated using the full covariance matrix.  The cell esds are taken
+ into account individually in the estimation of esds in distances, angles
+ and torsion angles; correlations between esds in cell parameters are only
+ used when they are defined by crystal symmetry.  An approximate (isotropic)
+ treatment of cell esds is used for estimating esds involving l.s. planes.
+;
+ 
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+Cl01 Na02 2.8200(4) 73 ?
+Cl01 Na02 2.8200(4) . ?
+Cl01 Na02 2.8200(4) 1_655 ?
+Cl01 Na02 2.8200(4) 49_554 ?
+Cl01 Na02 2.8200(4) 49 ?
+Cl01 Na02 2.8200(4) 73_545 ?
+ 
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+Na02 Cl01 Na02 90.0 73 . ?
+Na02 Cl01 Na02 90.0 73 1_655 ?
+Na02 Cl01 Na02 180.0 . 1_655 ?
+Na02 Cl01 Na02 90.0 73 49_554 ?
+Na02 Cl01 Na02 90.0 . 49_554 ?
+Na02 Cl01 Na02 90.0 1_655 49_554 ?
+Na02 Cl01 Na02 90.0 73 49 ?
+Na02 Cl01 Na02 90.0 . 49 ?
+Na02 Cl01 Na02 90.0 1_655 49 ?
+Na02 Cl01 Na02 180.0 49_554 49 ?
+Na02 Cl01 Na02 180.0 73 73_545 ?
+Na02 Cl01 Na02 90.0 . 73_545 ?
+Na02 Cl01 Na02 90.0 1_655 73_545 ?
+Na02 Cl01 Na02 90.0 49_554 73_545 ?
+Na02 Cl01 Na02 90.0 49 73_545 ?
+Cl01 Na02 Cl01 90.0 73_455 . ?
+Cl01 Na02 Cl01 90.0 73_455 1_455 ?
+Cl01 Na02 Cl01 180.0 . 1_455 ?
+Cl01 Na02 Cl01 90.0 73_455 49_454 ?
+Cl01 Na02 Cl01 90.0 . 49_454 ?
+Cl01 Na02 Cl01 90.0 1_455 49_454 ?
+Cl01 Na02 Cl01 90.0 73_455 49_455 ?
+Cl01 Na02 Cl01 90.0 . 49_455 ?
+Cl01 Na02 Cl01 90.0 1_455 49_455 ?
+Cl01 Na02 Cl01 180.0 49_454 49_455 ?
+Cl01 Na02 Cl01 180.0 73_455 73_445 ?
+Cl01 Na02 Cl01 90.0 . 73_445 ?
+Cl01 Na02 Cl01 90.0 1_455 73_445 ?
+Cl01 Na02 Cl01 90.0 49_454 73_445 ?
+Cl01 Na02 Cl01 90.0 49_455 73_445 ?
+ 
+_refine_diff_density_max    0.167
+_refine_diff_density_min   -0.247
+_refine_diff_density_rms    0.097
+
+
+
+
