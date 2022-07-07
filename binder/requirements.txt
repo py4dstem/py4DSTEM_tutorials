@@ -1,4 +1,5 @@
-git+git://github.com/py4dstem/py4DSTEM@dev#egg=py4DSTEM
+#git+git://github.com/py4dstem/py4DSTEM@dev#egg=py4DSTEM
+py4dstem
 jedi==0.17.2
 #tables
 dask[complete]
